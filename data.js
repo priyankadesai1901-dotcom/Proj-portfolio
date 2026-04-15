@@ -1,5 +1,5 @@
 // ============================================================
-// 📝 PORTFOLIO DATA — Edit this file to customize your portfolio!
+// 📝 PORTFOLIO DATA
 // ============================================================
 // Instructions:
 //   1. Replace the placeholder values below with your own info.

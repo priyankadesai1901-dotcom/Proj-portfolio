@@ -12,7 +12,7 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Priyanka Desai",
+  name: "Priyanka Pradip Desai",
   firstName: "Priyanka",   // Used in the hero greeting
   lastName: "Desai",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
